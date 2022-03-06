@@ -80,7 +80,7 @@ function updateStatusText(isOwner, checking) {
     if(isOwner) {
       statusText.innerText = `You do own ${COLLECTION_NAME}!! 🥬 Let's see how many${renderDots(dots)}`;
     } else {
-      statusText.innerText = `恭喜你 成為韭菜的一員!! ${COLLECTION_NAME} 🥬${renderDots(dots)}`;
+      statusText.innerText = `恭喜你 成為韭菜的一員!! ${COLLECTION_NAME}萬歲 🥬${renderDots(dots)}`;
     }
   } else {
     if(isOwner) {
