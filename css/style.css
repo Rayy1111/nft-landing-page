@@ -10,8 +10,8 @@
   --font-code: 'Roboto', monospace;
   --bg-color: #00163f;
   --font-color: #ffffff;
-  --btn-bg-color: #ffffff;
-  --accent-color: #be7efe;
+  --btn-bg-color: #FFFFFF;
+  --accent-color: #d189a4;
   --header-shadow: #000 0px 0px 5px;
 }
 
@@ -80,8 +80,8 @@ header .container {
 }
 
 .wallet-btn {
-  border-radius: 5rem;
-  margin-left: 2rem;
+  border-radius: 7rem;
+  margin-left: 5rem;
   border-color: transparent;
 }
 
