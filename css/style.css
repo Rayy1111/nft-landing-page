@@ -9,8 +9,8 @@
   --font-secondary: 'Arvo', serif;
   --font-code: 'Roboto', monospace;
   --bg-color: #bb6943;
-  --font-color: #ffffff;
-  --btn-bg-color: #FFFFFF;
+  --font-color: #181414;
+  --btn-bg-color: #2d66b1;
   --accent-color: #d189a4;
   --header-shadow: #000 0px 0px 5px;
 }
@@ -23,7 +23,7 @@
 }
 
 body {
-  background-size: 100% 100%;
+  background-size: 90% 90%;
   
 }
 
