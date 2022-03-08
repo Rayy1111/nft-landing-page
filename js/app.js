@@ -84,7 +84,7 @@ function updateStatusText(isOwner, checking) {
     }
   } else {
     if(isOwner) {
-      statusText.innerText = `You own ${editions.length} ${COLLECTION_NAME}!! 🥬`;
+      statusText.innerText = `You own ${  editions.length} ${COLLECTION_NAME}!! 🥬`;
     } else {
       statusText.innerText = `你還不是韭菜!! 快過來給我割 ${COLLECTION_NAME} 🥬`;
     }
